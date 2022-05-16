@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 eval.py --evaluate --batch_size 1 --dataset NYU --gpu_num 0 --encoder AST --other_method 'MonoCLIP'

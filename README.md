@@ -1,7 +1,9 @@
 # DepthCLIP
 Official implementation of "Can Language Understand Depth?"
 
-**Paper Link:** coming soon
+Accepted by ACM Multimedia 2022 (Brave New Idea)
+
+**Paper Link:** https://arxiv.org/abs/2207.01077
 
 **Author:** Renrui Zhang\*, Ziyao Zeng\*, Ziyu Guo
 

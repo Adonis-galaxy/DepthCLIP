@@ -1,13 +1,13 @@
-# DepthCLIP
-Official implementation of "Can Language Understand Depth?"
+# DepthCLIP: Can Language Understand Depth?
+Official implementation of the paper "Can Language Understand Depth?"
 
-Accepted by ACM Multimedia 2022 (Brave New Idea)
+***Accepted by ACM Multimedia 2022 (Brave New Idea)***
 
-**Paper Link:** https://arxiv.org/abs/2207.01077
+Paper Link: https://arxiv.org/abs/2207.01077
 
-**PPT:**   [DepthCLIP.pdf](DepthCLIP.pdf) 
+PPT:   [DepthCLIP.pdf](DepthCLIP.pdf) 
 
-**Author:** Renrui Zhang\*, Ziyao Zeng\*, Ziyu Guo
+**Authors:** Renrui Zhang\*, Ziyao Zeng\*, Ziyu Guo
 
 ### Overview
 
@@ -19,7 +19,7 @@ To our best knowledge, we are the first to conduct zero-shot adaptation from the
 
 ![cover](cover.png)
 
-👆Visualization for monocular depth estimation of our DepthCLIP. Note that we require no training and directly transfer CLIPclip for zero-shot prediction.
+👆Visualization for monocular depth estimation of our DepthCLIP. Note that we require no training and directly transfer CLIP for zero-shot prediction.
 
 ### Preparation
 
@@ -58,5 +58,5 @@ Please see **./clip/model.py** to see our usage of CLIP.
 ## Acknowledgement
 
 Our code borrows a lot from:
-- [ASTransformer](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch)
 - [CLIP](https://github.com/openai/CLIP)
+- [ASTransformer](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch)

@@ -7,7 +7,9 @@ Paper Link: https://arxiv.org/abs/2207.01077
 
 PPT:   [DepthCLIP.pdf](DepthCLIP.pdf) 
 
-**Authors:** Renrui Zhang\*, Ziyao Zeng\*, Ziyu Guo
+Presentation Video (15min): https://files.atypon.com/acm/37a0a7fe422cdb908bab81f1b2a88743
+
+**Authors:** Renrui Zhang\*, Ziyao Zeng\*, Ziyu Guo, Yafeng Li
 
 ### Overview
 

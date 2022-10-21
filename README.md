@@ -23,6 +23,10 @@ To our best knowledge, we are the first to conduct zero-shot adaptation from the
 
 👆Visualization for monocular depth estimation of our DepthCLIP. Note that we require no training and directly transfer CLIP for zero-shot prediction.
 
+### Poster
+
+![poster](poster.png)
+
 ### Preparation
 
 Please refer to [ASTransformer](https://github.com/WJ-Chang-42/ASTransformer) to set up environment and prepare NYU Depth V2 Dataset.
